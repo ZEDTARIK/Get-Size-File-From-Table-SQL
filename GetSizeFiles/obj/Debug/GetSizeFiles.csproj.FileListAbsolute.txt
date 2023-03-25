@@ -1,0 +1,6 @@
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\bin\Debug\GetSizeFiles.exe.config
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\bin\Debug\GetSizeFiles.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\bin\Debug\GetSizeFiles.pdb
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\obj\Debug\GetSizeFiles.csproj.CoreCompileInputs.cache
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\obj\Debug\GetSizeFiles.exe
+C:\Users\ettar\OneDrive\Desktop\Projects\Csharp\GetSizeFiles\GetSizeFiles\obj\Debug\GetSizeFiles.pdb
